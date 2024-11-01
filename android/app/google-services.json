@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898716599465",
+    "project_id": "auntification-e999d",
+    "storage_bucket": "auntification-e999d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898716599465:android:dd1b9ca1073d3eb85f15b8",
+        "android_client_info": {
+          "package_name": "com.egor.auntification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUpl7nxs-c9wpxQywxCUewMa-dTyEKlmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
